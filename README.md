@@ -2,13 +2,13 @@
 
 PAR Token : 
 
-Address : 0x2c154926B8a6bDE338BD8B9CE281e6D32Ba64193
+Address : 0x334f5BfBeCabcBA88B3663131c8F228315177f32
 
-BSC contract code : https://bscscan.com/address/0x2c154926B8a6bDE338BD8B9CE281e6D32Ba64193#code
+BSC contract code : https://bscscan.com/address/0x334f5BfBeCabcBA88B3663131c8F228315177f32#code
 
 PAR Masterchef : 
 
-Address : 0xd5844A33A20AC07e465716d6E493d813a128DaF9
+Address : 0x9461431C4CC9fF13D07eCDa52c6EF9979d1e890f
 
-BSC contract code : https://bscscan.com/address/0xd5844A33A20AC07e465716d6E493d813a128DaF9#code
+BSC contract code : https://bscscan.com/address/0x9461431C4CC9fF13D07eCDa52c6EF9979d1e890f#code
 
